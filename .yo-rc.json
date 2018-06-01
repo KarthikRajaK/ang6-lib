@@ -1,0 +1,13 @@
+{
+  "generator-angular-library": {
+    "githubUsername": "karthikraja1994@hotmail.com",
+    "githubRepoName": "ang6-lib",
+    "npmModuleName": "ang6-lib",
+    "ngModuleName": "Ang6LibModule",
+    "selectorPrefix": "Ang6",
+    "projectTitle": "ang6 lib",
+    "projectDescription": "",
+    "authorName": "karthikraja.k@widas.in",
+    "packageManager": "npm"
+  }
+}
